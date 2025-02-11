@@ -10,7 +10,7 @@
 
 <br><br>
 
-- 🔭 I’m currently working on **eLife**
+- 🔭 I’m currently working on **Proptery Share System Development**
 
 - 🌱 I’m currently learning **Devops**
 
